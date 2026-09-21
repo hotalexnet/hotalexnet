@@ -1,6 +1,7 @@
 # Hi, I'm Alex
 
-I build small, local-first tools for AI-assisted development and OpenBSD.
+I work on enterprise AI implementation and am also an enthusiast of open-source
+projects such as OpenBSD and Emacs.
 
 The common idea behind these projects is simple: keep important state outside
 the model. User identity, permissions, file locations, business data, and
@@ -48,7 +49,7 @@ README.
 
 # 你好，我是 Alex
 
-我主要做面向 AI 辅助开发和 OpenBSD 的小型、本地优先工具。
+我主要从事 AI 在企业端的落地开发，同时也是 OpenBSD、Emacs 等开源软件的爱好者。
 
 这些项目有一个共同原则：重要状态不要交给模型保存。用户身份、权限、文件
 位置、业务数据和会话进度，都应该明确、可检查，并由人控制。
